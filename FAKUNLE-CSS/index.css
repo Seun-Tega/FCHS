@@ -73,11 +73,37 @@
     align-items: center;
   }
 
-  .join:hover{
+   #join4{
+    text-decoration: none;
+     color: #CC7D13;
+  }
+
+  
+   #join4:hover{
+    text-decoration: none;
+     color: white;
+  }
+
+
+
+     .join:hover{
     border: 2px solid white;
     color: white;
-
+    padding: 5px;
+    border-radius: 5px;
+    width: 170px;
+    align-items: center;
   }
+  #donate{
+    text-decoration: none;
+    color: white;
+  }
+  
+  
+
+
+  
+
   .network{
    border: 2px solid #CC7D13;
     color: white;
@@ -90,7 +116,7 @@
   }
 
   .network:hover{
-    color: black;
+    color: white;
   }
 
 #more{
